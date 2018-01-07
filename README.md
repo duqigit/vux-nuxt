@@ -1,6 +1,7 @@
-# ele
+# vux/nuxt demo
 
-> Nuxt.js project
+> Nuxt结合vux完成的服务端渲染demo
+> vux是一款很好的基于vue2.0移动端ui框架 [vux官网地址](https:/vux.li)
 
 ## Build Setup
 
